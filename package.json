@@ -1,0 +1,10 @@
+{
+  "name": "gelir-gider-takip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gelir gider takip paneli (statik, tek dosya)",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
